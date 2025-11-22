@@ -1,0 +1,12 @@
+file_format: "1"
+id: auralis
+name: auralis
+type: shield
+url: https://github.com/lindaazhao/auralis
+requires: [pro_micro]
+features:
+  - keys
+  - underglow
+siblings:
+  - auralis_left
+  - auralis_right

@@ -1,4 +1,4 @@
-#include "caelum.dtsi"
+#include "auralis.dtsi"
 
 &kscan0 {
     row-gpios

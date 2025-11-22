@@ -20,8 +20,8 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: caelum_left
+    shield: auralis_left
   - board: nice_nano_v2
-    shield: caelum_right
+    shield: auralis_right
   - board: nice_nano_v2
     shield: settings_reset

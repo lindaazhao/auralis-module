@@ -1,4 +1,4 @@
-#include "caelum.dtsi"
+#include "auralis.dtsi"
 
 &default_transform {
     col-offset = <7>;

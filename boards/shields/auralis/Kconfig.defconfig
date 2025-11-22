@@ -1,14 +1,14 @@
-if SHIELD_CAELUM_RIGHT
+if SHIELD_AURALIS_RIGHT
 
 config ZMK_KEYBOARD_NAME
-    default "Caelum"
+    default "Auralis"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
 
 endif
 
-if SHIELD_CAELUM_LEFT || SHIELD_CAELUM_RIGHT
+if SHIELD_AURALIS_LEFT || SHIELD_AURALIS_RIGHT
 
 config ZMK_SPLIT
     default y
